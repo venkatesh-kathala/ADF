@@ -1,0 +1,9 @@
+{
+	"name": "advazure-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c3836e68-1dfb-40fe-9e61-6041a309b905",
+		"tenantId": "47eab23f-3476-476c-827f-57ed6be96274"
+	}
+}
